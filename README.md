@@ -39,10 +39,11 @@ the roomname makes your chat visible only to people in the same room
 Now in the page that opens type some name in the I am text field and now start chatting 
 
 
+Now you can develop the chat application in the way it suits your need .The following images show how easily
+the application can be attached to website
 
-Now you can develop the chat application in the way it suits your need .
 
-
-
+![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chat.png)
+![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chat2.png)
 
 
