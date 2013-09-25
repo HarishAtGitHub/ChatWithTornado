@@ -43,7 +43,7 @@ Now you can develop the chat application in the way it suits your need .The foll
 the application can be attached to website
 
 
-![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chat.png)
-![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chat2.png)
+![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chatnew2.jpg)
+![Chat Application attached to website ](https://raw.github.com/HarishAtGitHub/ChatWithTornado/master/snapshot/chatnew1.jpg)
 
 
